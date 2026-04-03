@@ -17,15 +17,11 @@ This repository contains coursework for the Generative AI course (Spring II) at 
 4. Staged files with `git add` and committed with `git commit`
 5. Pushed changes to GitHub with `git push`
 
-## Commit History
+## Commit History (key steps)
 
-```
-17a013c Update final_version.md with revised bio and focus area
-4fd3c3b Copy assistant_draft content to final_version.md
-4d55bb2 Add prompt reflection note to assistant_draft.md
-e5bf73e Add profile content to assistant_draft.md
-84483a6 Add README and draft files for Generative AI course
-```
+- `84483a6`: Repository setup (README and initial files)
+- `e5bf73e` & `4d55bb2`: Assistant-created draft and reflections
+- `4fd3c3b` & `17a013c`: Final version with personal edits
 
 ## Author
 
