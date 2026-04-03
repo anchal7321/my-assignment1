@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am Anchal Purbey, an MBA candidate at Johns Hopkins Carey Business School with extensive experience as a Strategy and Data Consultant. My background includes large-scale public health and policy projects in India, where I focused on rigorous data cleaning, structured analysis, and translating complex quantitative work into clear, credible insights for decision-makers. I am currently pivoting toward biotech, life sciences, and pharmaceutical strategy.
+I am Anchal Purbey, an MBA candidate at Johns Hopkins Carey Business School with more than 6 years of experience as a Strategy and Data Consultant. My background includes large-scale public health and policy projects in India, where I focused on rigorous data cleaning, structured analysis, and translating complex quantitative work into clear, credible insights for decision-makers. I am currently pivoting toward biotech, life sciences, and pharmaceutical strategy.
 
 ## Area of Focus
 
-I am deeply passionate about the intersection of biomedical innovation, healthcare economics, and public policy. My work centers on using evidence and analytical frameworks to inform funding decisions, optimize resource allocation, and improve healthcare access for underserved populations. As I transition into the U.S. healthcare context, I am particularly interested in the policy and regulatory questions that shape drug development, innovation incentives, and patient access to treatment.
+I am deeply passionate about the intersection of healthcare and business strategy. My work centers on using evidence and analytical frameworks to inform funding decisions, optimize resource allocation, and improve healthcare access for underserved populations. As I transition into the U.S. healthcare context, I am particularly interested in translating insights to inform straegic business decision making. My area of focus includes venture strategy, mergers and acquisitions and healthcare finance.
 
 ## 3 Ways Generative AI Can Be Useful in Healthcare Policy & Strategy
 
@@ -16,14 +16,16 @@ I am deeply passionate about the intersection of biomedical innovation, healthca
 
 ---
 
-## Prompt Used
+## What you changed yourself and why
 
-Create content for assistant_draft.md. The file should contain: a short title, one short paragraph introducing you, one short paragraph describing an industry, function, or problem area you care about, and one short bullet list of 3 ways generative AI might be useful in that area. Keep it simple, natural, and not too formal.
+In the about me section-added 6 years of experience to make it more specific. 
 
-## What the Assistant Did Well
+In the area of focus section- revised the first line to- I am deeply passionate about the intersection of healthcare and business strategy, to give a high level idea of transition.
 
-It correctly classified and separated the information into the outline structure provided, and accurately saved the content to assistant_draft.md in the local folder.
+Also revised and added last line in this same section- "As I transition into the U.S. healthcare context, I am particularly interested in translating insights to inform straegic business decision making. My area of focus includes venture strategy, mergers and acquisitions and healthcare finance", as the details earlier is not what I would keep in a shorter version of my focus and goals.
 
-## What Could Be Improved
+## one thing the assistant wrote that you did not want to keep as-is
 
-The content could have been shortened and rephrased more concisely to better fit the outline format.
+This line under area of focus-"As I transition into the U.S. healthcare context, I am particularly interested in the policy and regulatory questions that shape drug development, innovation incentives, and patient access to treatment"
+
+
