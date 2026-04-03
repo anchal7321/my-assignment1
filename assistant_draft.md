@@ -20,6 +20,15 @@ I am deeply passionate about the intersection of biomedical innovation, healthca
 
 Create content for assistant_draft.md. The file should contain: a short title, one short paragraph introducing you, one short paragraph describing an industry, function, or problem area you care about, and one short bullet list of 3 ways generative AI might be useful in that area. Keep it simple, natural, and not too formal.
 
+About me:
+Strategic Data Analytics & Healthcare Policy Analyst
+I am Anchal Purbey, and I am currently pursuing an MBA at Johns Hopkins Carey Business School. I have extensive experience as a Strategy and Data Consultant, having worked on large-scale public health and policy-related projects in India. In my previous roles, I focused on rigorous data cleaning, structured analysis, and translating complex quantitative work into clear, credible insights for decision-makers. I am now pivoting toward biotech, life sciences, and pharmaceutical strategy.
+I am deeply passionate about the intersection of biomedical innovation, healthcare economics, and public policy. I care specifically about using evidence and analytical frameworks to inform funding decisions, optimize resource allocation, and improve healthcare access for underserved populations. As I transition into the U.S. healthcare context, I want to engage directly with the policy and regulatory questions that influence drug development, innovation incentives, and patient access to treatment.
+3 Ways Generative AI Can Be Useful in Healthcare Policy & Strategy:
+Accelerating Literature and Policy Reviews: Generative AI can rapidly synthesize vast amounts of scientific literature, streamlining the process of monitoring regulatory developments and analyzing case studies.
+Enhancing Policy Communication: AI can assist in translating complex health equity analyses and scenario projections into accessible white papers, fact sheets, and presentations for non-technical audiences.
+Optimizing Resource Allocation: AI tools can help process raw demographic and health data from large-scale surveys to quickly identify service gaps and inform decision-support dashboards
+
 ## What the Assistant Did Well
 
 It correctly classified and separated the information into the outline structure provided, and accurately saved the content to assistant_draft.md in the local folder.
