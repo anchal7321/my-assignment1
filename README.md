@@ -23,6 +23,10 @@ This repository contains coursework for the Generative AI course (Spring II) at 
 - `e5bf73e` & `4d55bb2`: Assistant-created draft and reflections
 - `4fd3c3b` & `17a013c`: Final version with personal edits
 
+## Video Reference
+
+[https://youtu.be/xBqV4VQByKE](https://youtu.be/xBqV4VQByKE)
+
 ## Author
 
 **Anchal Purbey**
